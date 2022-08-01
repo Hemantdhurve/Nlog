@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKx449nu3cIzCOR9OjNTUpAEXfRNDa+c/3/7p9YAFbwMxqiPmSPIBQs+G6ofjm6bOhm9ScDpA2ENjNt9lQF3Ew==",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudio\\source\\repos\\AddNumber\\AddNumber\\AddNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
